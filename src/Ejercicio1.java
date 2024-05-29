@@ -18,7 +18,7 @@ public class Ejercicio1
         int numAmigos = sc.nextInt( );
 
         double aportacion = valorTotal / numAmigos;
-        System.out.println( " Cada amigo tiene que aportar: " + aportacion );
+        System.out.println( "Cada amigo tiene que aportar: " + aportacion );
 
         sc.close( );
 
