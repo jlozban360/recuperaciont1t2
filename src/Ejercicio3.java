@@ -12,6 +12,7 @@ public class Ejercicio3
 
         System.out.printf( "%.02f", distancia( x1, y1, x2, y2 ) );
 
+
         sc.close( );
     }
 

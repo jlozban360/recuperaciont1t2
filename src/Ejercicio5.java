@@ -11,6 +11,7 @@ public class Ejercicio5
             j += 2;
         }
 
+
         int k = 2;
         do {
             System.out.println( k );

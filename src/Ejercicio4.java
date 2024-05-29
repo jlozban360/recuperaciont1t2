@@ -16,6 +16,7 @@ public class Ejercicio4
             }
         }
 
+
         if( counter == 0 )
             System.out.println( "NINGUNO" );
     }

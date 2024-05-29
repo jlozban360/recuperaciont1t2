@@ -11,6 +11,7 @@ public class Ejercicio7
         //Limpiar buffer
         sc.nextLine( );
 
+
         int i = 0;
         while( i < n ) {
             String datoFecha = sc.nextLine( );

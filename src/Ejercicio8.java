@@ -26,6 +26,7 @@ public class Ejercicio8
             j++;
         }
 
+
         sc.close( );
     }
 
